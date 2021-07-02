@@ -8,7 +8,7 @@
 
 ## Overview
 
-Made this classic snake game as a basic learning project. In this game, the snake (in blaack color) has to eat food (in red color) and avoid hitting boundaries and its own body to keep growing. If the player hit boundaries or its own body, the game will end and the player will have to restart. It's super easy and super addictive. Try it out!   
+Made this classic snake game as a basic learning project. In this game, the snake (in black color) has to eat food (in red color) and avoid hitting boundaries and its own body to keep growing. If the player hit boundaries or its own body, the game will end and the player will have to restart. It's super easy and super addictive. Try it out!   
 
 
 ### Links
